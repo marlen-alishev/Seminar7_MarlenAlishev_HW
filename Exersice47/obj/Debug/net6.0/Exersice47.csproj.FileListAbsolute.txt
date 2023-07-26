@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\bin\Debug\net6.0\Exersice47.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\bin\Debug\net6.0\Exersice47.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\bin\Debug\net6.0\Exersice47.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\bin\Debug\net6.0\Exersice47.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\bin\Debug\net6.0\Exersice47.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\refint\Exersice47.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\Exersice47.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 7\Seminar7_MarlenAlishev_HW\Exersice47\obj\Debug\net6.0\ref\Exersice47.dll
